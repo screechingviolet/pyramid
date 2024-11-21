@@ -1,0 +1,26 @@
+body {
+  background-color: #4d370e;
+}
+
+h1 {
+  color: rgb(255, 208, 54);
+  font-family: fantasy;
+  padding-left: 50px;
+  padding-top: 30px;
+  
+}
+
+p {
+  color: black;
+  font-size: 10px;
+}
+
+h3 {
+  color: rgb(192, 164, 71);
+  font-family: 'MedievalSharp', cursive;
+  padding-left:10px;
+
+}
+
+
+
